@@ -10,7 +10,6 @@ I am a recent graduate in Software Development and Management Engineering with a
     <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="HTML5 Logo" style="max-width:50px">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="HTML5 Logo" style="max-width:50px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="HTML5 Logo" style="max-width:50px">
-</div>
 </p>
 <!--
 **AngelTaRa99/AngelTaRa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
