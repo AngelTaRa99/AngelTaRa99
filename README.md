@@ -1,5 +1,8 @@
-## Hi there 👋
+# (～￣▽￣)～ Angel T. Ramírez
 
+**`Junior Front-End Developer`**
+
+I'm a recent graduated Softwer development and managment engineer, I love to learn new things and challenge myself, during my time at university I participated in some projects for school, I built some websites and helped with some desings. 
 <!--
 **AngelTaRa99/AngelTaRa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
