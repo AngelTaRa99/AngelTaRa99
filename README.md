@@ -2,7 +2,12 @@
 
 **`Junior Front-End Developer`**
 
-I'm a recent graduated Softwer development and managment engineer, I love to learn new things and challenge myself, during my time at university I participated in some projects for school, I built some websites and helped with some desings. 
+I am a recent graduate in Software Development and Management Engineering with a passion for learning new skills and tackling challenges. During my time at university, I participated in various academic projects, built websites, and contributed to design work.
+
+<P aling="Left">
+    Proficient in:
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5 Logo">
+</p>
 <!--
 **AngelTaRa99/AngelTaRa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
