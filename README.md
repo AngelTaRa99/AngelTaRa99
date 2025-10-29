@@ -35,7 +35,7 @@ When I’m not coding, you’ll probably find me exploring UI/UX ideas, tinkerin
 
 ---
 
-### 🧭 Goals for 2025  
+### 🧭 Goals for 2026  
 - 💼 Land my first developer job  
 - 🌐 Build a personal portfolio website  
 - 💡 Contribute to open-source projects  
